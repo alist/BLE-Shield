@@ -8,8 +8,8 @@
 #define ALERT_WRITE_STRING_TAG  2000
 
 #define kBLEShieldServiceUUIDString @"EF080D8C-C3BE-41FF-BD3F-05A5F4795D7F"
-#define kBLEShieldCharacteristicRXUUIDString @"1494440E-9A58-4CC0-81E4-DDEA7F74F623"
-#define kBLEShieldCharacteristicTXUUIDString @"A1E8F5B1-696B-4E4C-87C6-69DFE0B0093B"
+#define kBLEShieldCharacteristicRXUUIDString @"A1E8F5B1-696B-4E4C-87C6-69DFE0B0093B"
+#define kBLEShieldCharacteristicTXUUIDString @"1494440E-9A58-4CC0-81E4-DDEA7F74F623"
 #define kBLEShieldCharacteristicReceiveBufferUUIDString @"2FBC0F31-726A-4014-B9FE-C8BE0652E982" //this should get baud rate
 #define kBLEShieldCharacteristicClearReceiveBufferUUIDString @"DAF75440-6EBA-11E1-B0C4-0800200C9A66"
 
